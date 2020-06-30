@@ -1,6 +1,4 @@
-----
 layout: slide
 title: "Welcome to our second slide! Yehoo
-----
-Your text
+I am very happy to start this course
 Use the left arrow to go back!
